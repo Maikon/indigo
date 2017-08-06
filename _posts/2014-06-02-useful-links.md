@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Useful Links."
+title: "Useful Links"
 category: blog
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Command Pattern."
+title: "The Command Pattern"
 category: blog
 tag:
 - design patterns
